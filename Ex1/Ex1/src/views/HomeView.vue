@@ -80,6 +80,7 @@
         }
         .forget{
             margin-left: 60%;
+            color: blue;
             
         }
         @media only screen and (max-width: 600px) {

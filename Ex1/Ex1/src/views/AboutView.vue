@@ -1,7 +1,7 @@
 <template>
   <div class="contain">
         <div class="container">
-            <p class="text">Login Form</p>
+            <p class="text1">Register</p>
             <p class="text2">Please fill in this form to create an account</p>
             
             <form class="login">
@@ -43,11 +43,11 @@
             width: 350px;
             background-color: #2980b9;
         }
-        .container .text{
+        .container .text1{
             font-size: 30px;
             font-weight: 500;
             color: white;
-            margin-left: 25%;
+            margin-left: 100px;
             margin-top: 10px;
         }
         ::placeholder{
@@ -56,7 +56,7 @@
         .text2{
             left: 5px;
             text-align: center;
-            color: blue;
+            color: darkblue;
             font-weight: 300;
             font-size: 15px;
         }
